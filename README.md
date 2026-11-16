@@ -82,7 +82,7 @@ I am a Computer Science student fascinated by Artificial Intelligence and Machin
 
 ### Data Science & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=seaborn,pandas,pytorch,sklearn,tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
 
 ### Tools & Platforms
 
