@@ -78,15 +78,15 @@ I am a Computer Science student fascinated by Artificial Intelligence and Machin
 
 ### Web Technologies
 
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 ### Data Science & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow" />
+<img src="https://skillicons.dev/icons?i=machine learning,deeplearning,seaborn,pandas,pytorch,sklearn,tensorflow" />
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,sql" />
 
 </div>
 
