@@ -1,8 +1,12 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:24102B,100:7B2D5C&height=220&section=header&text=Sandeep%20Yadav&fontSize=48&fontColor=F8F4F8&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20B.Tech%20CSE%20Student&descAlignY=58&descSize=17" width="100%" />
+<img src="https://github.com/sandeep00yadav.png" width="150" height="150" style="border-radius:50%;" alt="Sandeep Yadav" />
 
-### Exploring AI • Building Projects • Learning Every Day
+# Sandeep Yadav
+
+### AI/ML Enthusiast | B.Tech CSE Student
+
+**Exploring AI • Learning New Technologies • Building Projects**
 
 [![GitHub](https://img.shields.io/badge/GitHub-sandeep00yadav-181717?style=for-the-badge&logo=github)](https://github.com/sandeep00yadav)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iam-sandeepyadav/)
@@ -18,49 +22,48 @@
 name: Sandeep Yadav
 education: B.Tech - Computer Science & Engineering
 graduation: 2027
+
 interests:
-  - Artificial Intelligence & Machine Learning
+  - Artificial Intelligence
+  - Machine Learning
   - Building practical projects
-  - Exploring how intelligent systems work
-currently_exploring:
+
+currently_learning:
   - Agentic AI
   - Large Language Models (LLMs)
   - Cloud Computing
+
 mindset: Learn • Build • Improve
 ```
 
-I am a Computer Science student fascinated by AI and Machine Learning. I enjoy learning new technologies and applying what I learn through practical projects. I am currently exploring Agentic AI, LLMs and Cloud Computing.
+I am a Computer Science student fascinated by Artificial Intelligence and Machine Learning. I enjoy exploring new technologies, understanding how intelligent systems work, and applying my knowledge through practical projects.
+
+Currently, I am learning **Agentic AI, LLMs, and Cloud Computing** to expand my technical knowledge.
 
 ---
 
-## `> Tech Stack`
+## `> Tech Stack & Skills`
 
 <div align="center">
 
-**Programming Languages**
+### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<img src="https://skillicons.dev/icons?i=java,python,c" />
 
-**Web Technologies**
+### Web Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css" />
 
-**Data Science & Machine Learning**
+### Data Science & Machine Learning
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow" />
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Tools**
+### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
@@ -73,35 +76,42 @@ I am a Computer Science student fascinated by AI and Machine Learning. I enjoy l
 <td width="50%" valign="top">
 
 <h3 align="center">🌾 DirectFarm AI</h3>
-<p align="center"><b>AI-enabled farmer–buyer marketplace</b></p>
 
-A Smart India Hackathon 2026 prototype (Problem Statement 33) focused on connecting farmers and buyers.
+<p align="center"><b>AI-enabled Farmer–Buyer Marketplace</b></p>
 
-- Marketplace for farmer products and buyer orders
+A Smart India Hackathon 2026 prototype focused on connecting farmers and buyers.
+
+- Farmer and buyer marketplace
 - AI-based demand prediction module
 - Hindi Farmer Mode with voice assistance
 - Map and delivery-related modules
 
 <p align="center">
-<a href="https://github.com/sandeep00yadav/DirectFarm_AI"><img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://directfarm-one.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-7B2D5C?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/sandeep00yadav/DirectFarm_AI">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github" />
+</a>
 </p>
+
 </td>
 <td width="50%" valign="top">
 
 <h3 align="center">🌱 Crop Recommendation Website</h3>
-<p align="center"><b>Machine Learning web application</b></p>
 
-A web application that recommends a suitable crop based on user-provided soil and environmental details.
+<p align="center"><b>Machine Learning Web Application</b></p>
 
-- Uses soil and weather-related input
-- Predicts a suitable crop using an ML model
-- Built with Python, Flask and Scikit-learn
-- Includes a simple web interface
+A web application that recommends suitable crops based on soil and environmental information.
+
+- Soil and environmental inputs
+- Crop prediction using a Random Forest model
+- Python and Scikit-learn
+- Web-based user interface
 
 <p align="center">
-<a href="https://github.com/sandeep00yadav/crop-recommendation-website"><img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/sandeep00yadav/crop-recommendation-website">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github" />
+</a>
 </p>
+
 </td>
 </tr>
 </table>
@@ -112,11 +122,25 @@ A web application that recommends a suitable crop based on user-provided soil an
 
 <div align="center">
 
-| Area | Exploring |
+| Area | Topics |
 |:---:|:---|
-| 🤖 **Agentic AI** | AI agents, workflows and tool calling |
-| 🧠 **LLMs** | Large Language Models and their applications |
-| ☁️ **Cloud** | Cloud computing and deployment fundamentals |
+| 🤖 **Agentic AI** | AI Agents, Workflows, Tool Calling |
+| 🧠 **LLMs** | Large Language Models and Applications |
+| ☁️ **Cloud** | Cloud Computing and Deployment |
+
+</div>
+
+---
+
+## `> LeetCode Profile`
+
+<div align="center">
+
+<a href="https://leetcode.com/u/sandeep_yadav271312/">
+<img src="https://leetcard.jacoblin.cool/sandeep_yadav271312?theme=dark&ext=heatmap" width="85%" alt="LeetCode Statistics" />
+</a>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visit_My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sandeep_yadav271312/)
 
 </div>
 
@@ -126,10 +150,11 @@ A web application that recommends a suitable crop based on user-provided soil an
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sandeep00yadav&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=C77DFF&text_color=E6EDF3" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep00yadav&layout=compact&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E6EDF3" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sandeep00yadav&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=C77DFF&text_color=E6EDF3" alt="GitHub Statistics" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sandeep00yadav&hide_border=true&background=0D1117&ring=C77DFF&fire=C77DFF&currStreakLabel=E6EDF3&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep00yadav&layout=compact&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E6EDF3" alt="Most Used Languages" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=sandeep00yadav&hide_border=true&background=0D1117&ring=C77DFF&fire=C77DFF&currStreakLabel=E6EDF3&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -140,15 +165,17 @@ A web application that recommends a suitable crop based on user-provided soil an
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iam--sandeepyadav-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iam-sandeepyadav/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-sandeep00yadav-181717?style=for-the-badge&logo=github)](https://github.com/sandeep00yadav)
-[![Gmail](https://img.shields.io/badge/Gmail-san1072006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:san1072006@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:san1072006@gmail.com)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sandeep00yadav&style=for-the-badge&color=7B2D5C&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sandeep00yadav&style=for-the-badge&color=7B2D5C&label=PROFILE+VIEWS" alt="Profile Views" />
 
-### ✨ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-*Always learning. Always building.*
+*Always Learning. Always Building.*
 
 </div>
